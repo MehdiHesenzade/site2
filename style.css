@@ -1,0 +1,112 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+/*portfolio start*/
+.portfolio a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color:rgb(29, 128, 159);
+    padding:23px 26px;
+    color:white;
+   border-radius: 5px;
+
+}
+.portfolio{
+    text-align:center;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+  padding: 100px;
+}
+.portfolio h1{
+    font-size:100px;
+    padding-top:50px;
+}
+.portfolio p{ font-size:30px;
+    padding-bottom: 30px;
+    
+}
+.portfolio a:hover{
+    background-color:rgb(83, 83, 83);
+    color:white;}
+
+/*portfolio end*/
+
+/*port start*/
+.port{
+    text-align: center;
+    background-color:white;
+    padding:100px;
+
+}
+.port h1{
+    font-size:30px;
+}
+.port p{
+    font-size:18px;
+    color:rgb(75, 73, 73);
+    padding-bottom:30px;
+}
+.port a{background-color: #343a40;
+    color:white;
+    padding:25px 30px;
+    border-radius: 5px;
+    text-decoration:none;}
+.port a:hover{background-color: rgb(44, 43, 43);
+    color:white;
+  
+}
+
+
+/*port end*/
+
+/*services start*/
+
+
+.services-text{
+    text-align: center;
+    color:rgb(179, 179, 4);
+    text-transform: uppercase;
+    
+}
+.text{
+    text-align: center;
+    color:black;
+    font-size: 50px;
+}
+/*services end*/
+
+/*icon start*/
+.icon{width: 25%;
+    box-sizing: border-box;
+    float:left;
+    text-align: center;
+    
+}
+.icon i{
+    font-size:100px;
+}
+/*icon end*/
+/*welcome start*/
+
+.welcome{ padding: 200px;
+    text-align: center;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+}
+.welcome h1{
+    font-size:70px;
+}
+.welcome a{ background-color: rgb(29, 128, 159);
+    padding:25px 30px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+}
+
+    
+
+
+/*Welcome end*/
+/*button start*/
+
+
+/*button end*/
